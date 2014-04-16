@@ -1,4 +1,4 @@
-Financial Analysis
+##Financial Analysis
 
 This project aims to implement the analysis of Stock market Data. Initially we are considering data from NASDAQ. 
 
